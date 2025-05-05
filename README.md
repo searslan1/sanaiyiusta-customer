@@ -1,6 +1,4 @@
-# SanaİyiUsta Mobil Uygulama (Expo WebView)
-
-Bu proje, SanaİyiUsta web frontend'ini mobil cihazlarda çalıştırmak üzere oluşturulmuş bir React Native + Expo uygulamasıdır.
+# Welcome to your Expo app 👋
 
 ## 🔗 Gösterilen Web Uygulaması
 

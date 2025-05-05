@@ -7,3 +7,6 @@ coverage/
 *.tgz
 *.zip
 *.tar.gz
+.DS_Store
+.vscode/
+.idea/
