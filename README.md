@@ -1,6 +1,6 @@
 # SanaİyiUsta Mobil Uygulama (Expo WebView)
 
-Bu proje, Oto Sanayi 5.0 web frontend'ini mobil cihazlarda çalıştırmak üzere oluşturulmuş bir React Native + Expo uygulamasıdır.
+Bu proje, SanaİyiUsta web frontend'ini mobil cihazlarda çalıştırmak üzere oluşturulmuş bir React Native + Expo uygulamasıdır.
 
 ## 🔗 Gösterilen Web Uygulaması
 
